@@ -1,3 +1,28 @@
+.badge-blue {
+    background-color: #14AAF5;
+}
+
+.badge-purple {
+    background-color: #AB5DE6;
+}
+
+.badge-green {
+    background-color: #2CC6AB;
+}
+
+.badge-orange {
+    background-color: #FF9B00;
+}
+
+.badge-pink {
+    background-color: #EC4A9D;
+}
+
+.badge-lime {
+    background-color: #A3D116;
+}
+
+
 * {
     font-family: sans-serif;
     margin: 0;
@@ -56,4 +81,25 @@ main {
 .logo {
     font-size: 50px;
     font-weight: bold;
+}
+
+.task-button {
+    background-color: #14AAF5;
+    border: 1px #14AAF5 solid;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    font-size: 12px;
+}
+
+
+#section-button {
+    background-color: white;
+    border: 1px rgb(177, 177, 177) solid;
+    padding: 4px 10px;
+    border-radius: 5px;
+    font-size: 12px;
+
 }
