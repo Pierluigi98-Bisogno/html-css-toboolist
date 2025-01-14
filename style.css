@@ -18,3 +18,22 @@ header {
     background-color: white;
     padding: 8px 16px;
 }
+
+.container {
+    background-color: white;
+    border-radius: 6px;
+    max-width: 1400px;
+    width: 100%;
+
+
+}
+
+
+.task-container {
+    padding: 25px 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+
+}
