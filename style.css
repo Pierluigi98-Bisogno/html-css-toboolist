@@ -138,7 +138,6 @@ main {
 .cross-icon {
     display: inline;
     border: 1px #FF0000 solid;
-    border-radius: 999px;
     padding: 0px 2px;
     line-height: 14px;
     margin-right: 4px;
