@@ -37,3 +37,23 @@ header {
 
 
 }
+
+.button-container {
+    padding: 10px 40px;
+    border-bottom: 2px white solid;
+
+}
+
+main {
+    padding-top: 28px;
+    padding-left: 50px;
+    padding-right: 50px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.logo {
+    font-size: 50px;
+    font-weight: bold;
+}
